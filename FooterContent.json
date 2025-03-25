@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Algemeen",
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.epe.nl",
+        "link": "https://www.epe.nl/",
+        "customIcon": {
+          "icon": "<svg focusable=\"false\" class=\"extlink extlink--append extlink--url\" role=\"img\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\"><title>(link is extern)</title><path fill=\"Currentcolor\" d=\"M11.5 14H.5a.5.5 0 01-.5-.5v-11A.5.5 0 01.5 2H8a.5.5 0 010 1H1v10h10V6a.5.5 0 011 0v7.5a.5.5 0 01-.5.5z\"></path><path fill=\"Currentcolor\" class=\"ext__path\" d=\"M7 7.5a.5.5 0 01-.35-.85L12.29 1H10a.5.5 0 010-1h3.5a.5.5 0 01.33.12.5.5 0 01.17.35V4a.5.5 0 01-1 0V1.7L7.35 7.36A.5.5 0 017 7.5z\"></path></svg>",
+          "placement": "right"
+        }
+      },
+      {
+        "ariaLabel": "Privacy",
+        "value": "Privacy",
+        "link": "https://epe.nl/privacy",
+        "customIcon": {
+          "icon": "<svg focusable=\"false\" class=\"extlink extlink--append extlink--url\" role=\"img\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\"><title>(link is extern)</title><path fill=\"Currentcolor\" d=\"M11.5 14H.5a.5.5 0 01-.5-.5v-11A.5.5 0 01.5 2H8a.5.5 0 010 1H1v10h10V6a.5.5 0 011 0v7.5a.5.5 0 01-.5.5z\"></path><path fill=\"Currentcolor\" class=\"ext__path\" d=\"M7 7.5a.5.5 0 01-.35-.85L12.29 1H10a.5.5 0 010-1h3.5a.5.5 0 01.33.12.5.5 0 01.17.35V4a.5.5 0 01-1 0V1.7L7.35 7.36A.5.5 0 017 7.5z\"></path></svg>",
+          "placement": "right"
+        }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-epe/blob/main/Toegankelijkheid.md"
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/assets/Over%20deze%20website.md"
+      }
+    ]
+  },
+  {
+    "title": "Contact",
+    "items": [
+      {
+        "ariaLabel": "Phone number",
+        "value": "14 0578",
+        "link": "tel:140578"
+      },
+      {
+        "ariaLabel": "Email address",
+        "value": "gemeente@epe.nl",
+        "link": "mailto:gemeente@epe.nl"
+      },
+      {
+        "ariaLabel": "Contact met de gemeente",
+        "value": "Neem contact op",
+        "link": "https://www.epe.nl/contact-met-de-gemeente",
+        "customIcon": {
+          "icon": "<svg focusable=\"false\" class=\"extlink extlink--append extlink--url\" role=\"img\" aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\"><title>(link is extern)</title><path fill=\"Currentcolor\" d=\"M11.5 14H.5a.5.5 0 01-.5-.5v-11A.5.5 0 01.5 2H8a.5.5 0 010 1H1v10h10V6a.5.5 0 011 0v7.5a.5.5 0 01-.5.5z\"></path><path fill=\"Currentcolor\" class=\"ext__path\" d=\"M7 7.5a.5.5 0 01-.35-.85L12.29 1H10a.5.5 0 010-1h3.5a.5.5 0 01.33.12.5.5 0 01.17.35V4a.5.5 0 01-1 0V1.7L7.35 7.36A.5.5 0 017 7.5z\"></path></svg>",
+          "placement": "right"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bezoekadres",
+    "items": [
+      {
+        "ariaLabel": "Address",
+        "value": "Marktplein 1 (Markt 14 voor navigatie)"
+      },
+      {
+        "ariaLabel": "Postcode",
+        "value": "8161 EE Epe"
+      }
+    ]
+  }
+]
